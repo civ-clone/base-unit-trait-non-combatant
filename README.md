@@ -2,7 +2,7 @@
 
 The `NonCombatant` unit trait: a unit type with it never fights.
 
-A unit type with this trait never attacks, captures a city or pillages, and does not count as a military unit: a city does not pay its support in shields, and it causes no military unhappiness.
+A unit type with this trait takes no part in fighting: it never attacks, captures a city or pillages. A game's rules may also leave it out of whatever they count as military.
 
 For example: Civ1: Diplomat and Caravan. Civ2: the diplomacy and trade roles.
 
